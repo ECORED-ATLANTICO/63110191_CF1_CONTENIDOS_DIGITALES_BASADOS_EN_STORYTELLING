@@ -93,7 +93,7 @@
 
     p.mb-4 La estructura de un brief varía según el contexto, pero generalmente incluye los siguientes elementos:
 
-    .row.justify-content-center.z-2
+    .row.justify-content-center.mb-3.z-2
       .col-8.col-sm-6.col-lg-3
         figure
           img.mb-3.mb-lg-0(data-aos="zoom-in-right")(src='@/assets/curso/temas/tema1/8.png', alt='imagen decorativa')
