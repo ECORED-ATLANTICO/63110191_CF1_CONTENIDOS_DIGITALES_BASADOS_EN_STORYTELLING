@@ -1,17 +1,22 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Público objetivo',
+    Description:
+      'Este componente aborda la planificación de contenidos digitales basados en <em>storytelling</em>, partiendo del <em>brief</em> como guía estratégica. Explora la importancia de definir el público objetivo, construyendo el <em>buyer persona</em> para adaptar narrativas a sus necesidades. Además, profundiza en la segmentación de mercados, proporcionando técnicas y buenas prácticas para diseñar campañas impactantes y alineadas con los objetivos de marca.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.png'),
       },
     ],
   },
@@ -31,13 +36,23 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: '<em>Brief</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Objetivos',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Tipos',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Estructura',
+            hash: 't_1_3',
           },
         ],
       },
@@ -45,14 +60,91 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Público objetivo',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Características',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Patrones de comportamiento',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Necesidades y preferencias',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Tendencias',
+            hash: 't_2_4',
+          },
+          {
+            numero: '2.5',
+            titulo: 'Factores de Influencia',
+            hash: 't_2_5',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: '<em>Buyer persona</em>',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Características',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Factores de motivación',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Creación',
+            hash: 't_3_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Segmentación de mercados',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Objetivos',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Tipos',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Criterios',
+            hash: 't_4_3',
+          },
+          {
+            numero: '4.4',
+            titulo: 'Estándares',
+            hash: 't_4_4',
+          },
+          {
+            numero: '4.5',
+            titulo: 'Buenas prácticas',
+            hash: 't_4_5',
+          },
+        ],
       },
     ],
     subMenu: [
