@@ -67,8 +67,8 @@
 figcaption
   font-weight: normal
 
-.z-2
-  z-index: 2
+.bg-color-secundario-s20
+  background-color: $color-secundario-s20
 
 .fullwidth-bg
   position: relative
@@ -82,3 +82,64 @@ figcaption
 
     @media (max-width: 450px)
       display: none
+
+.z-2
+  position: relative
+  z-index: 2
+
+.acordion
+  &__activo
+    background-color: $color-primario-p10
+
+  &__accion__btn--a
+    background-color: $color-acento-botones
+    color: $white
+
+.factores-slider
+  &__tarjeta
+    border-radius: 14px
+    height: 97% !important
+    box-shadow: 0px 0px 5px 0px #00000030
+    margin: 10px
+    
+  &__icon 
+    max-width: 239px
+  
+  &__title-wrapper
+    text-align: center
+
+  &__title
+    background-color: $color-acento-contenido
+    padding: 10px 20px
+    display: block
+
+  &__number
+    color: $color-secundario
+    font-size: 30px
+    
+    &.color-acento-contenido
+      color: $color-acento-contenido
+      margin-bottom: 10px
+
+  .slyder-f
+    align-items: center
+
+    .slyder-f__main
+      width: 70%
+
+      @media (min-width: 769px)
+        width: 80%
+
+  .slyder-f__btn
+    height: 35px
+    width: 35px
+    max-width: 35px
+    background-color: $color-acento-botones
+    border-radius: 50%
+    padding: 0 !important
+    margin: 0 auto
+    color: $white
+    .fa-chevron-left
+      font-size: 20px
+    .fa-chevron-right
+      font-size: 20px
