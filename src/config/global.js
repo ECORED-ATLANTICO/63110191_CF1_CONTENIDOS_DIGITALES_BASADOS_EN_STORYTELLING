@@ -194,22 +194,135 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: 'Sitio web',
-      link: '',
+      tema: 'Público objetivo',
+      referencia:
+        'Fourquet, M. (s. f.). <em>Público objetivo: Qué es, características y cómo llegar a él</em>. QuestionPro.',
+      tipo: 'Artículo',
+      link: 'https://www.questionpro.com/blog/es/publico-objetivo/',
+    },
+    {
+      tema: '<em>Buyer persona</em>',
+      referencia:
+        'HubSpot. (2023, octubre 26). <em>6 ejemplos de buyer personas para diferentes empresas</em>. Blog de HubSpot.',
+      tipo: 'Artículo',
+      link: 'https://komunikalatam.com/buyer-persona/',
+    },
+    {
+      tema: '<em>Buyer persona</em>',
+      referencia:
+        'Komunika Latam. (2023). <em>El buyer persona y su importancia en el marketing actual.</em>',
+      tipo: 'Artículo',
+      link: 'https://blog.hubspot.es/marketing/ejemplos-buyer-persona',
+    },
+    {
+      tema: 'Segmentación de mercados',
+      referencia:
+        'Parra, A. (s. f.). <em>¿Qué es la segmentación de mercados?</em> QuestionPro.',
+      tipo: 'Artículo',
+      link:
+        'https://www.questionpro.com/blog/es/que-es-la-segmentacion-de-mercados/',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: '<em>Analytics</em>',
+      significado:
+        'Proceso de análisis de datos digitales para obtener información útil.',
+    },
+
+    {
+      termino: '<em>Business suite</em>',
+      significado:
+        'Herramienta de Meta para gestionar Facebook e Instagram desde un solo lugar.',
+    },
+
+    {
+      termino: '<em>Dashboard</em>',
+      significado:
+        'Panel de visualización que muestra métricas clave en tiempo real.',
+    },
+
+    {
+      termino: '<em>E-commerce</em>',
+      significado:
+        'Comercio electrónico que se realiza a través de plataformas digitales.',
+    },
+
+    {
+      termino: '<em>Engagement</em>',
+      significado:
+        'Grado de interacción que una publicación o contenido genera en la audiencia.',
+    },
+
+    {
+      termino: '<em>Insights</em>',
+      significado:
+        'Conocimientos accionables derivados del análisis e interpretación de datos.',
+    },
+
+    {
+      termino: 'KPI',
+      significado:
+        'Indicador clave de desempeño que mide el progreso hacia un objetivo.',
+    },
+
+    {
+      termino: 'SEM <em>(Search Engine Marketing)</em>',
+      significado:
+        'Estrategia de marketing digital basada en anuncios pagados en buscadores.',
+    },
+
+    {
+      termino: 'SEO',
+      significado:
+        'Optimización de contenidos para mejorar su posicionamiento en buscadores.',
+    },
+
+    {
+      termino: '<em>Social Listening</em>',
+      significado:
+        'Técnica que analiza conversaciones digitales para entender al consumidor.',
+    },
+
+    {
+      termino: '<em>Storytelling</em>',
+      significado:
+        'Técnica de comunicación basada en narrativas que conectan con el público.',
+    },
+
+    {
+      termino: '<em>Vanity Metrics</em>',
+      significado:
+        'Métricas superficiales que no aportan valor estratégico real.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Álvarez Sigüenza, J. F. (2024). <em>Los segmentos del marketing: Análisis, definición y tipos</em>. RAE-IC, Revista de la Asociación Española de Investigación de la Comunicación, 11(21).',
+      link: 'https://doi.org/10.24137/raeic.11.21.19',
+    },
+    {
+      referencia:
+        'Beltrán Mora, M. N., Parrales Carvajal, V. M., & Ledesma Álvarez, G. D. (2019). <em>El Buyer Persona como factor clave entre las tendencias en gestión empresarial</em>. Revista Científica Mundo de la Investigación y el Conocimiento, 3(3), 659–681',
+      link: 'http://recimundo.com/index.php/es/article/view/615',
+    },
+    {
+      referencia:
+        'Caisaguano Chiluisa, M. A. (2021). <em>El Buyer Persona, una estrategia de marketing digital para las MiPymes del sector turístico de Tungurahua</em> [Tesis de grado, Universidad Técnica de Ambato]. Repositorio UTA.',
+      link:
+        'https://repositorio.uta.edu.ec/server/api/core/bitstreams/8746bc51-5511-4408-bfa4-5f1aab99f1f4/content',
+    },
+    {
+      referencia:
+        'Fernández Valiñas, R. (2009). <em>Segmentación de mercados. McGraw-Hill Interamericana.</em>',
+      link:
+        'https://www.uteg.edu.ec/biblioteca-libros/wp-content/uploads/2023/09/Segmentacion-de-mercados_compressed.pdf',
+    },
+    {
+      referencia:
+        'Universidad Nacional Autónoma de Nicaragua. (2022). Segmentación de mercado [Seminario de graduación]. Repositorio UNAN.',
+      link: 'https://repositorio.unan.edu.ni/id/eprint/17362/1/17362.pdf',
     },
   ],
   creditos: [
@@ -217,14 +330,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -232,9 +346,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Nicolas Cruz Ríos',
+          cargo: 'Experto temático',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Heydy Cristina González García',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -242,19 +361,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Luis Gabriel Urueta',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Fabio Fonseca Arguelles',
+          cargo: 'Desarrollador <i>full stack junior</i>',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Nelson Ivan Vera Briceño',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -262,14 +381,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'María Fernanda Morales Angulo',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jonathan Adie Villafañe',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jairo Luis Valencia Ebratt',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
