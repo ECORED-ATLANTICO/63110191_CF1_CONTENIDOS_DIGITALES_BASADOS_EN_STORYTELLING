@@ -203,3 +203,37 @@ figcaption
   background-position: center
   background-size: cover
   background-repeat: no-repeat
+
+.checklist
+  padding-left: 20px
+  width: fit-content
+
+  li
+    position: relative
+    padding: 0 20px
+    padding-left: 0
+    // border-bottom: 1px dotted #AFAFAF
+
+    // &:last-child
+    //   border-bottom: none
+    &::before
+      content: url('../assets/curso/temas/check-icon.svg')
+      position: absolute
+      left: -20px
+
+.w-79
+  max-width: 79px
+  margin: 0 auto
+
+.w-112
+  max-width: 112px
+  margin: 0 auto
+
+.tabs-a__tab
+  background-color: #F7F5C3
+
+.tabs-a__content-item
+  background-color: #EFF6FF
+
+.tarjeta-audio__texto
+  margin-bottom: 1rem !important

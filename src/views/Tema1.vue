@@ -115,7 +115,7 @@
     .row.bg-color-secundario-s20.p-3
       .col-lg-2.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/temas/tema1/9.png', alt='Imagen decorativa')(data-aos="fade-up")
+          img(src='@/assets/curso/temas/tema1/9.png', alt='Imagen decorativa')(data-aos="fade-down")
       .col-lg-10
         h5 Ejemplo empresarial
         p.mb-0 Un ejemplo de <em>brief</em> aplicado en una empresa es el caso de Nike, que desarrolla <em>briefs</em> detallados para cada campaña publicitaria, asegurando que los valores de la marca estén reflejados en cada pieza de contenido. En la campaña "<em>Just do it</em>", el <em>brief</em> incluyó elementos emocionales y estratégicos para conectar con el público objetivo (Nike, 2021).

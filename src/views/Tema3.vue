@@ -134,7 +134,8 @@
             .col-md-4
               figure
                 img(src='@/assets/curso/temas/tema3/5.png', alt='Imagen decorativa')
-
+                
+    .fullwidth-bg.fullwidth-bg--1
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-lg-1.d-none.d-lg-block
         figure
