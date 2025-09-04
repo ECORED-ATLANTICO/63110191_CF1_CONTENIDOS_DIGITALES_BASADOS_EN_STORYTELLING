@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-atlantico.github.io/ECORED-BASE-REPO/](https://ecored-atlantico.github.io/ECORED-BASE-REPO/)
+[https://ecored-atlantico.github.io/63110191_CF1_CONTENIDOS_DIGITALES_BASADOS_EN_STORYTELLING/](https://ecored-atlantico.github.io/63110191_CF1_CONTENIDOS_DIGITALES_BASADOS_EN_STORYTELLING/#/)
 
 #
 
