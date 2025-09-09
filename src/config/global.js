@@ -269,7 +269,7 @@ export default {
     {
       termino: 'SEM <em>(Search Engine Marketing)</em>',
       significado:
-        'Estrategia de marketing digital basada en anuncios pagados en buscadores.',
+        'Estrategia de <em>marketing</em> digital basada en anuncios pagados en buscadores.',
     },
 
     {

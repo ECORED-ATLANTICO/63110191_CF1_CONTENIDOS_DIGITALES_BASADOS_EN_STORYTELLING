@@ -17,7 +17,7 @@
           p.mb-0 En el mundo digital actual, comprender el público objetivo es esencial para el éxito de cualquier estrategia de comunicación y <em>marketing</em>. Definirlo con precisión permite crear mensajes efectivos y personalizar contenidos para mejorar la conexión con la audiencia. Este componente formativo aborda la identificación del público objetivo mediante técnicas avanzadas de segmentación de mercado, asegurando que los aprendices adquieran habilidades estratégicas para diseñar campañas digitales impactantes.
         .row
           .col-lg-9
-            p.mb-0 Asimismo, conocer el brief es fundamental para quienes planifican contenidos digitales basados en <em>storytelling</em>, ya que este documento proporciona directrices clave sobre los objetivos de marca, el tono de comunicación y la identidad corporativa, comprender sus elementos permite interpretar de manera precisa las estrategias comunicacionales y adaptar la narrativa a las expectativas definidas.
+            p.mb-0 Asimismo, conocer el <em>brief</em> es fundamental para quienes planifican contenidos digitales basados en <em>storytelling</em>, ya que este documento proporciona directrices clave sobre los objetivos de marca, el tono de comunicación y la identidad corporativa, comprender sus elementos permite interpretar de manera precisa las estrategias comunicacionales y adaptar la narrativa a las expectativas definidas.
           .col-lg-3
             figure
               img(data-aos="fade-up")(src="@/assets/curso/introduccion/2.png" alt="Imagen decorativa")
