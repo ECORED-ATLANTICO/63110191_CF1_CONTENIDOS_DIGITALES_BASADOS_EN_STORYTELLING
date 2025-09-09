@@ -17,7 +17,7 @@
     Separador
 
     #t_1_1(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 1.1.	Objetivos
+      h3 1.1	Objetivos
 
     .row.justify-content-center.align-items-center
       .col-lg-11
@@ -52,7 +52,7 @@
 
     .fullwidth-bg.fullwidth-bg--1
     #t_1_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 1.2.	Tipos
+      h3 1.2	Tipos
 
     p.mb-4.z-2 Existen varios tipos de <em>brief</em>, cada uno adaptado a distintas necesidades estratégicas. Según Fill (2019), los más utilizados en el <em>marketing</em> digital son:
 
@@ -89,9 +89,9 @@
     Separador
 
     #t_1_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 1.3.	Estructura
+      h3 1.3	Estructura
 
-    p.mb-4 La estructura de un brief varía según el contexto, pero generalmente incluye los siguientes elementos:
+    p.mb-4 La estructura de un <em>brief</em> varía según el contexto, pero generalmente incluye los siguientes elementos:
 
     .row.justify-content-center.mb-3.z-2
       .col-8.col-sm-6.col-lg-3

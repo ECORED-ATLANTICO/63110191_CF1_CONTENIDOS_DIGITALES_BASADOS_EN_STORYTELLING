@@ -18,7 +18,7 @@
     Separador
     .fullwidth-bg.fullwidth-bg--1
     #t_2_1(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 2.1.	Objetivos
+      h3 2.1	Características
 
     .row.justify-content-center.z-2
       .col-10.col-md-6.col-lg-4
@@ -43,7 +43,7 @@
     Separador
 
     #t_2_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 2.2.	Patrones de comportamiento
+      h3 2.2	Patrones de comportamiento
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-lg-11
@@ -117,7 +117,7 @@
     Separador
 
     #t_2_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 2.3.	Necesidades y preferencias
+      h3 2.3	Necesidades y preferencias
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-lg-10
@@ -177,7 +177,7 @@
     Separador
 
     #t_2_4(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 2.4.	Tendencias
+      h3 2.4	Tendencias
 
     p.mb-4 El mercado está en constante evolución, y comprender las tendencias y factores de influencia permite a las marcas anticiparse a los cambios y optimizar sus estrategias de comunicación y segmentación. Actualmente, destacan tres tendencias clave en el comportamiento del consumidor:
 
@@ -207,7 +207,7 @@
 
     Separador
     #t_2_5(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 2.5.	Factores de influencia
+      h3 2.5	Factores de influencia
 
     p.mb-4 El comportamiento del consumidor está influenciado por una combinación de factores que enriquecen y guían sus decisiones de compra. Entre los más destacados se encuentran los factores sociales, económicos y psicológicos, los cuales permiten comprender mejor cómo se forman las preferencias, elecciones y fidelización hacia determinadas marcas o productos.
 

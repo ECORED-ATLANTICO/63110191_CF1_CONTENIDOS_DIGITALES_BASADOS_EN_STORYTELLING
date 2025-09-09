@@ -18,7 +18,7 @@
     Separador
 
     #t_3_1(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 3.1.	Características
+      h3 3.1	Características
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-lg-11
@@ -41,7 +41,7 @@
               p Engloba la forma en que el usuario adquiere productos o servicios, su frecuencia de compra, medios de pago preferidos y sensibilidad al precio o promociones.
           .row(titulo="Comportamiento digital")
             .col-auto
-              p Analiza el uso de plataformas digitales, redes sociales preferidas, horarios de conexión, tipo de contenido que consume (videos, <em>blogs</em>, infografías, entre otros).
+              p Analiza el uso de plataformas digitales, redes sociales preferidas, horarios de conexión, tipo de contenido que consume (videos, blogs, infografías, entre otros).
           .row(titulo="Motivaciones y preocupaciones")
             .col-auto
               p Explora qué impulsa su decisión de compra, cuáles son sus objetivos personales o profesionales, y qué obstáculos o temores busca superar con una solución.
@@ -56,7 +56,7 @@
     Separador
 
     #t_3_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 3.2.	Factores de motivación
+      h3 3.2	Factores de motivación
 
     p.mb-4.mb-lg-5 El <em>buyer persona</em> no solo responde a necesidades básicas, sino que también está influenciado por motivaciones profundas que determinan su comportamiento de compra, identificar estos factores permite diseñar estrategias de contenido alineadas con sus expectativas y valores:
 
@@ -87,8 +87,8 @@
 
     Separador
 
-    #t_3_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 3.2.	Creación
+    #t_3_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
+      h3 3.3	Creación
 
     p.mb-4.mb-lg-5 El <em>buyer persona</em> es una representación semificticia del cliente ideal, basada en datos reales y análisis de comportamiento. Su construcción permite diseñar estrategias de contenido alineadas con las necesidades y expectativas del público objetivo. Para desarrollar un <em>buyer persona</em>, se deben seguir los siguientes pasos:
 
@@ -129,7 +129,7 @@
 
           .row
             .col-md-8.mb-4.mb-md-0
-              h3.mb-4 Aplicación en estrategias de contenido.
+              h3.mb-4 Aplicación en estrategias de contenido
               p El <em>buyer persona</em> validado se usa como base para personalizar mensajes, elegir formatos adecuados y diseñar campañas que generen conexión efectiva con la audiencia.
             .col-md-4
               figure
@@ -154,32 +154,32 @@
               .col-5
                 img.factores-slider__icon.mb-4(src='@/assets/curso/temas/tema3/11.png' alt='Ilustacion de acompañamiento')
             .factores-slider__title-wrapper  
-              h4.factores-slider__title.mb-4 Creativo
-            p.mb-4.mb-5.text-center Enfocado en campañas publicitarias y contenido visual. Contiene datos clave sobre el mensaje y tono de la comunicación.
+              h4.factores-slider__title.mb-4 Necesidades
+            p.mb-4.mb-5.text-center Crear contenido que resuelva sus problemas específicos.
 
           .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta
             .row.justify-content-center.mb-3
               .col-5
                 img.factores-slider__icon.mb-4(src='@/assets/curso/temas/tema3/12.png' alt='Ilustacion de acompañamiento')
             .factores-slider__title-wrapper  
-              h4.factores-slider__title.mb-4 Estratégico
-            p.mb-4.text-center Se emplea en el desarrollo de estrategias de <em>marketing</em> digital. Incluye análisis de mercado y objetivos de posicionamiento.
+              h4.factores-slider__title.mb-4 Canales favoritos
+            p.mb-4.text-center Usar los medios digitales donde el <em>buyer persona</em> interactúa más
 
           .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta
             .row.justify-content-center.mb-3
               .col-5
                 img.factores-slider__icon.mb-4(src='@/assets/curso/temas/tema3/13.png' alt='Ilustacion de acompañamiento')
             .factores-slider__title-wrapper  
-              h4.factores-slider__title.mb-4 Técnico
-            p.mb-4.text-center Dirigido a equipos de producción digital, proporcionando especificaciones técnicas y detalles operativos.
+              h4.factores-slider__title.mb-4 Estilo de comunicación
+            p.mb-4.text-center Ajustar el tono del mensaje para generar empatía.
 
           .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta
             .row.justify-content-center.mb-3
               .col-5
                 img.factores-slider__icon.mb-4(src='@/assets/curso/temas/tema3/14.png' alt='Ilustacion de acompañamiento')
             .factores-slider__title-wrapper  
-              h4.factores-slider__title.mb-4 Técnico
-            p.mb-4.text-center Dirigido a equipos de producción digital, proporcionando especificaciones técnicas y detalles operativos.
+              h4.factores-slider__title.mb-4 Motivaciones
+            p.mb-4.text-center Diseñar campañas que conecten con sus intereses.
 
 
 </template>

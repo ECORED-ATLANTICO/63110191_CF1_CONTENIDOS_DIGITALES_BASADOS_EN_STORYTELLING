@@ -17,7 +17,7 @@
 
     .fullwidth-bg.fullwidth-bg--1
     #t_4_1(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 4.1.	Objetivos
+      h3 4.1	Objetivos
 
     .row.justify-content-center.align-items-center.z-2.mb-4
       .col-lg-10
@@ -48,7 +48,7 @@
     Separador
 
     #t_4_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 4.2.	Objetivos
+      h3 4.2 Tipos
 
     p Refieren las categorías generales o enfoques estratégicos que se utilizan para dividir un mercado, basados en la naturaleza del atributo que se analiza. Son el "cómo" se organiza la segmentación, según qué dimensión del consumidor se quiere observar. De acuerdo con Zendesk (2023), se pueden identificar los siguientes:
 
@@ -88,7 +88,7 @@
     Separador
 
     #t_4_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 4.3.	Tipos
+      h3 4.3	Criterios
     
     .row.justify-content-center.align-items-center
       .col-lg-10
@@ -106,7 +106,7 @@
     Separador
 
     #t_4_4(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 4.4.	Estándares
+      h3 4.4	Estándares
 
     p.mb-4 En el contexto del <em>marketing</em> digital, la segmentación es fundamental para diseñar estrategias narrativas más efectivas. A través del <em>storytelling</em>, es posible adaptar los mensajes a las características, comportamientos y preferencias de públicos específicos. Para asegurar que estos esfuerzos sean pertinentes y sostenibles, se aplican estándares estratégicos que permiten validar la calidad de cada segmento. A continuación, se presentan estos principios, que orientan la personalización de contenidos según la viabilidad y estabilidad del público objetivo: 
 
@@ -135,7 +135,7 @@
     Separador
 
     #t_4_5(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 4.5.	Buenas prácticas
+      h3 4.5	Buenas prácticas
 
     .row.justify-content-center.align-items-center.mb-4
       .col-xl-11
