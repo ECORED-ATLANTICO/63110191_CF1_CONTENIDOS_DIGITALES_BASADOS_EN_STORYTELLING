@@ -19,7 +19,7 @@
     #t_1_1(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 1.1	Objetivos
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-11
         p.mb-3 El <em>brief</em> tiene la finalidad de convertirse en un punto de partida estratégico para cualquier proyecto de comunicación, ya que concentra la información esencial que da rumbo a las decisiones creativas y operativas. En el contexto de la planificación de contenidos digitales basados en <em>storytelling</em>, entender sus objetivos permite a quienes desarrollan la narrativa captar con claridad el propósito general y orientar sus ideas a lo que realmente necesita comunicar la marca.
       .col-lg-1.d-none.d-lg-block
@@ -32,20 +32,20 @@
           img.mb-3.mb-lg-0(data-aos="zoom-in-right")(src='@/assets/curso/temas/tema1/3.png', alt='imagen decorativa')
       .col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--primario")
-          .row(titulo="Asegurar coherencia y dirección en los mensajes")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Asegurar coherencia y dirección en los mensajes")
+            .col-auto.ps-0
               p Permite orientar estratégicamente las acciones de comunicación y <em>marketing</em>, evitando la improvisación y garantizando alineación con los objetivos.
-          .row(titulo="Unificar criterios entre actores del proyecto")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Unificar criterios entre actores del proyecto")
+            .col-auto.ps-0
               p Facilita la comprensión compartida entre diseñadores, creativos, clientes y demás involucrados sobre el rumbo del proyecto.
-          .row(titulo="Prever recursos y tiempos de ejecución")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Prever recursos y tiempos de ejecución")
+            .col-auto.ps-0
               p Ayuda a planificar con anticipación, optimizando la utilización de recursos y evitando desviaciones en los cronogramas.
-          .row(titulo="Establecer base para evaluación de resultados")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Establecer base para evaluación de resultados")
+            .col-auto.ps-0
               p Define metas y criterios de éxito que permiten valorar la efectividad de la narrativa y realizar los ajustes necesarios.
-          .row(titulo="Enfocar y estimular la creatividad con propósito")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Enfocar y estimular la creatividad con propósito")
+            .col-auto.ps-0
               p Proporciona parámetros estratégicos que guían el proceso creativo hacia soluciones más efectivas y alineadas con el objetivo del contenido.
 
     Separador
@@ -99,17 +99,17 @@
           img.mb-3.mb-lg-0(data-aos="zoom-in-right")(src='@/assets/curso/temas/tema1/8.png', alt='imagen decorativa')
       .col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--primario")
-          .row(titulo="Objetivo")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Objetivo")
+            .col-auto.ps-0
               p Explicación clara de la finalidad del contenido.
-          .row(titulo="Audiencia")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Audiencia")
+            .col-auto.ps-0
               p Perfil del público objetivo basado en datos demográficos y psicográficos.
-          .row(titulo="Mensaje clave")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Mensaje clave")
+            .col-auto.ps-0
               p Ideas centrales que deben transmitirse en la comunicación.
-          .row(titulo="Canales de distribución")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Canales de distribución")
+            .col-auto.ps-0
               p Plataformas donde se difundirá el contenido.
 
     .row.bg-color-secundario-s20.p-3

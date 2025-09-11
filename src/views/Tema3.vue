@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/1.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-3 El <em>buyer persona</em> es una representación semificticia del cliente ideal de una empresa. Se basa en datos reales sobre comportamiento, motivaciones y necesidades del consumidor, permitiendo diseñar estrategias de comunicación más personalizadas y eficaces (HubSpot, 2022).
+        p.mb-3 El <em>buyer persona</em> es una representación semificticia del cliente ideal de una empresa. Se basa en datos reales sobre comportamiento, motivaciones y necesidades del consumidor, permitiendo diseñar estrategias de comunicación más personalizadas y eficaces (HubSpot, 2022).<br><br>
         p.mb-0 Según Revella (2015), el <em>buyer persona</em> es un perfil detallado que describe los intereses, preocupaciones y patrones de toma de decisiones de los clientes potenciales. Esta herramienta facilita la creación de contenido relevante y aumenta la efectividad de las estrategias de <em>marketing</em>.
 
     Separador
@@ -30,23 +30,23 @@
     .row.justify-content-center.z-2
       .col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--primario")
-          .row(titulo="Perfil demográfico")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Perfil demográfico")
+            .col-auto.ps-0
               p Incluye aspectos como edad, género, ubicación geográfica, nivel educativo y estrato socioeconómico, permitiendo segmentar de manera precisa el público objetivo.
-          .row(titulo="Intereses y preferencias")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Intereses y preferencias")
+            .col-auto.ps-0
               p Se refiere a gustos personales, pasatiempos, estilo de vida, necesidades emocionales y temáticas que captan su atención o generan conexión con una marca.
-          .row(titulo="Hábitos de consumo")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Hábitos de consumo")
+            .col-auto.ps-0
               p Engloba la forma en que el usuario adquiere productos o servicios, su frecuencia de compra, medios de pago preferidos y sensibilidad al precio o promociones.
-          .row(titulo="Comportamiento digital")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Comportamiento digital")
+            .col-auto.ps-0
               p Analiza el uso de plataformas digitales, redes sociales preferidas, horarios de conexión, tipo de contenido que consume (videos, blogs, infografías, entre otros).
-          .row(titulo="Motivaciones y preocupaciones")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Motivaciones y preocupaciones")
+            .col-auto.ps-0
               p Explora qué impulsa su decisión de compra, cuáles son sus objetivos personales o profesionales, y qué obstáculos o temores busca superar con una solución.
-          .row(titulo="Objetivos y desafíos")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Objetivos y desafíos")
+            .col-auto.ps-0
               p Identifica los retos que enfrenta el consumidor y las metas que espera alcanzar, lo cual permite alinear los contenidos digitales a sus necesidades reales.
 
       .col-8.col-sm-6.col-lg-3
@@ -66,23 +66,23 @@
           img.mb-3.mb-lg-0(data-aos="zoom-in-right")(src='@/assets/curso/temas/tema3/4.png', alt='imagen decorativa')
       .col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--primario")
-          .row(titulo="Necesidades y problemas para resolver")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Necesidades y problemas para resolver")
+            .col-auto.ps-0
               p Busca soluciones efectivas para satisfacer necesidades o resolver problemas específicos.
-          .row(titulo="Aspiraciones y metas personales")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Aspiraciones y metas personales")
+            .col-auto.ps-0
               p Motivado por el deseo de alcanzar un estatus, bienestar o crecimiento profesional.
-          .row(titulo="Influencias sociales y culturales")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Influencias sociales y culturales")
+            .col-auto.ps-0
               p Las recomendaciones de grupos sociales y las tendencias culturales impactan la decisión de compra.
-          .row(titulo="Experiencia y confianza en la marca")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Experiencia y confianza en la marca")
+            .col-auto.ps-0
               p La seguridad y transparencia de una marca influyen en la percepción del consumidor.
-          .row(titulo="Precio y valor percibido")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Precio y valor percibido")
+            .col-auto.ps-0
               p Se evalúa el costo en relación con los beneficios obtenidos antes de la compra.
-          .row(titulo="Emoción y conexión personal")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Emoción y conexión personal")
+            .col-auto.ps-0
               p Factores emocionales como nostalgia, felicidad y confianza pueden influir en la elección del producto.
 
     Separador

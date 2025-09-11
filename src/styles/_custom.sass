@@ -9,11 +9,11 @@
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
     top: 2%
-    right: 2%
+    right: 6%
   &-3
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    bottom: 2%
+    bottom: 5%
     right: 15%
 
 @keyframes float1
@@ -55,8 +55,9 @@
     margin-bottom: 50px
 
 .banner-principal__row .banner-principal__img
-  width: 400px !important  
-  padding: 0 !important
+  width: 500px !important
+  @media screen and (max-width: $bp-max-xl)
+    width: 400px !important
 
 .banner-interno__titulo__icono i
   color: $color-primario

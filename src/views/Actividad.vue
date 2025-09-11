@@ -22,8 +22,8 @@ export default {
       introduccion:
         '<b> Objetivo:</b> identificar la importancia del público objetivo y su relación con el <em>buyer persona</em> y la segmentación de mercados en la planeación de contenidos digitales.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!..',
-      titulo_reprobado: 'VUELVA A INTENTARLO..',
+      titulo_aprobado: '¡BUEN TRABAJO!.',
+      titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
           id: 1,

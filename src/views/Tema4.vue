@@ -32,17 +32,17 @@
           img.mb-3.mb-lg-0(data-aos="zoom-in-right")(src='@/assets/curso/temas/tema4/3.png', alt='imagen decorativa')
       .col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--primario")
-          .row(titulo="Mejorar la efectividad del mensaje")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Mejorar la efectividad del mensaje")
+            .col-auto.ps-0
               p Permite adaptar tono, estilo y narrativas según el perfil del segmento.
-          .row(titulo="Optimizar recursos")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Optimizar recursos")
+            .col-auto.ps-0
               p Enfoca el contenido en canales y formatos donde se encuentra cada audiencia.
-          .row(titulo="Identificar oportunidades")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Identificar oportunidades")
+            .col-auto.ps-0
               p Descubre nichos con interés temático no cubierto.
-          .row(titulo="Fortalecer fidelidad")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Fortalecer fidelidad")
+            .col-auto.ps-0
               p Genera empatía mediante historias alineadas con los valores del público.
     
     Separador
@@ -116,20 +116,20 @@
           img.mb-3.mb-lg-0(data-aos="zoom-in-right")(src='@/assets/curso/temas/tema4/9.png', alt='imagen decorativa')
       .col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--primario")
-          .row(titulo="Medibilidad")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Medibilidad")
+            .col-auto.ps-0
               p El segmento debe poder cuantificarse para analizar su tamaño y características. Conocer cuántas personas entre 25 y 35 años consumen café <em>premium</em> en una ciudad concreta facilita diseñar mensajes dirigidos y medir su impacto real.
-          .row(titulo="Accesibilidad")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Accesibilidad")
+            .col-auto.ps-0
               p Es esencial poder llegar al segmento mediante canales adecuados y efectivos. Si se identifican jóvenes universitarios como audiencia clave, se les puede alcanzar a través de redes sociales o eventos académicos que frecuentan.
-          .row(titulo="Sustancialidad")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Sustancialidad")
+            .col-auto.ps-0
               p El grupo seleccionado debe tener el tamaño y el potencial suficientes para justificar una estrategia exclusiva. Si un segmento representa solo el 2 % del mercado, puede no ser rentable dedicarle una campaña específica.
-          .row(titulo="Diferenciación")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Diferenciación")
+            .col-auto.ps-0
               p Cada segmento debe responder de forma distinta a las acciones de <em>marketing</em>, lo cual permite ajustar el mensaje con mayor precisión. Por ejemplo, los jóvenes adultos pueden valorar más la experiencia sensorial de un producto que otros grupos etarios.
-          .row(titulo="Estabilidad")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Estabilidad")
+            .col-auto.ps-0
               p Un segmento debe mantener ciertas características a lo largo del tiempo para ser una apuesta segura. Si se basa en una moda pasajera, podría cambiar drásticamente y hacer que la estrategia pierda efectividad rápidamente.
 
     Separador
@@ -149,7 +149,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="zoom-in-left")(src='@/assets/curso/temas/tema4/10.png', alt='imagen decorativa') 
       .col-lg-9
-        p.mb-4.mb-xl-0 Para lograrlo, es clave combinar datos actualizados con intuición narrativa, probar diferentes formatos según el canal y adaptar el tono a cada grupo. Además, revisar periódicamente la respuesta de cada segmento permite ajustar las historias y mantener su relevancia. Para profundizar en estas prácticas y escuchar experiencias reales de narradores digitales, se invita al aprendiz a escuchar el podcast complementario que acompaña este capítulo, donde se exploran casos, errores comunes y consejos prácticos para segmentar con intención y contar con impacto.
+        p.mb-4 Para lograrlo, es clave combinar datos actualizados con intuición narrativa, probar diferentes formatos según el canal y adaptar el tono a cada grupo. Además, revisar periódicamente la respuesta de cada segmento permite ajustar las historias y mantener su relevancia. Para profundizar en estas prácticas y escuchar experiencias reales de narradores digitales, se invita al aprendiz a escuchar el podcast complementario que acompaña este capítulo, donde se exploran casos, errores comunes y consejos prácticos para segmentar con intención y contar con impacto.
         TarjetaAudio.color-acento-botones.mb-3.p-3.rounded-3(
           texto="Buenas prácticas en la segmentación de mercado"
           :audio="require('../assets/componentes/audios/audio-ej.mp3')"

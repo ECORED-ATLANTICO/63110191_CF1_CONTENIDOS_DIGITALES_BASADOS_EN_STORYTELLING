@@ -57,14 +57,14 @@
     .row.justify-content-center.z-2.mb-4
       .col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--primario")
-          .row(titulo="Factores psicológicos")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Factores psicológicos")
+            .col-auto.ps-0
               p Incluyen elementos como la percepción, la motivación, las creencias y el aprendizaje. Estos influyen directamente en cómo el consumidor interpreta y responde ante los estímulos del mercado.
-          .row(titulo="Factores sociales")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Factores sociales")
+            .col-auto.ps-0
               p Se relacionan con la cultura, la clase social, la familia y los grupos de referencia. Estos factores moldean las decisiones de compra a través de la interacción social y el entorno.
-          .row(titulo="Factores tecnológicos")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Factores tecnológicos")
+            .col-auto.ps-0
               p La digitalización, el acceso a plataformas en línea y la inteligencia artificial modifican la forma en que los consumidores buscan, comparan y adquieren productos o servicios.
 
       .col-8.col-sm-6.col-lg-3
@@ -187,14 +187,14 @@
           img.mb-4.mb-lg-0(data-aos="zoom-in-right")(src='@/assets/curso/temas/tema2/4.png', alt='imagen decorativa')
       .col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--primario")
-          .row(titulo="Personalización")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Personalización")
+            .col-auto.ps-0
               p Las marcas adaptan productos, servicios y mensajes según las preferencias, hábitos y necesidades individuales del consumidor, generando experiencias más relevantes y cercanas.
-          .row(titulo="Sostenibilidad y consumo responsable")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Sostenibilidad y consumo responsable")
+            .col-auto.ps-0
               p Aumenta el interés por productos ecológicos, reciclables y fabricados mediante procesos éticos. Los consumidores valoran el compromiso ambiental y social de las marcas.
-          .row(titulo="Digitalización de la experiencia de compra")
-            .col-auto
+          .row.ms-5.ps-2(titulo="Digitalización de la experiencia de compra")
+            .col-auto.ps-0
               p Se intensifica el uso de canales digitales para comprar, informarse e interactuar. Destacan el comercio electrónico, los contenidos interactivos y la atención automatizada a través de <em>chatbots</em> y plataformas.
 
     .row.align-items-center.bg-color-secundario-s20.p-3
