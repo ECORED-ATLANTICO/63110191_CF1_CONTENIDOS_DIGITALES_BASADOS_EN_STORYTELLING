@@ -152,7 +152,7 @@
         p.mb-4 Para lograrlo, es clave combinar datos actualizados con intuición narrativa, probar diferentes formatos según el canal y adaptar el tono a cada grupo. Además, revisar periódicamente la respuesta de cada segmento permite ajustar las historias y mantener su relevancia. Para profundizar en estas prácticas y escuchar experiencias reales de narradores digitales, se invita al aprendiz a escuchar el podcast complementario que acompaña este capítulo, donde se exploran casos, errores comunes y consejos prácticos para segmentar con intención y contar con impacto.
         TarjetaAudio.color-acento-botones.mb-3.p-3.rounded-3(
           texto="Buenas prácticas en la segmentación de mercado"
-          :audio="require('../assets/componentes/audios/audio-ej.mp3')"
+          :audio="require('../assets/podcast/1.wav')"
         )
 
 </template>

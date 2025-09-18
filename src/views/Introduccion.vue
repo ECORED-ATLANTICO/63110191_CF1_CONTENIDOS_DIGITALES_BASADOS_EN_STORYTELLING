@@ -25,8 +25,8 @@
     p.mb-5 A lo largo de este documento, se explorarán conceptos clave como el <em>buyer persona</em>, la segmentación de mercados, los estándares de segmentación y los principios del <em>brief</em>, proporcionando ejemplos empresariales, herramientas prácticas y recursos digitales que faciliten la estructuración efectiva de historias que conecten con la audiencia.    
 
     .video.mb-2
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/hCZxnw4K5cw" title="Movilidad inteligente y circulación segura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
-    figcaption <strong>Video:</strong> Movilidad inteligente y circulación segura.
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/0YAXjTBhUCg>" title="Publico Objetivo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
+    figcaption <strong>Video:</strong> Publico Objetivo.
 
 </template>
 
