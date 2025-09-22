@@ -127,7 +127,7 @@
             figure
               img(data-aos="zoom-in-left")(src='@/assets/curso/temas/tema1/2.svg', alt='imagen decorativa')
           .col-xl-11
-            p.mb-0 Según Kotler y Keller (2016), comprender las necesidades y preferencias del consumidor es esencial para diseñar estrategias de marketing efectivas. Estas dimensiones influyen directamente en el proceso de toma de decisiones de compra, ya que revelan qué motiva al consumidor, cómo evalúa los productos o servicios y qué lo impulsa a elegir una marca sobre otra:
+            p.mb-0 Según Kotler y Keller (2016), comprender las necesidades y preferencias del consumidor es esencial para diseñar estrategias de <em>marketing</em> efectivas. Estas dimensiones influyen directamente en el proceso de toma de decisiones de compra, ya que revelan qué motiva al consumidor, cómo evalúa los productos o servicios y qué lo impulsa a elegir una marca sobre otra:
       .col-lg-2.d-none.d-lg-block
         figure
           img(src='@/assets/curso/temas/tema2/10.svg', alt='Imagen decorativa')
