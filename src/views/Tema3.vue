@@ -5,15 +5,15 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 <em>Buyer persona</em>
+      h1 <em>buyer</em> persona
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/1.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-3 El <em>buyer persona</em> es una representación semificticia del cliente ideal de una empresa. Se basa en datos reales sobre comportamiento, motivaciones y necesidades del consumidor, permitiendo diseñar estrategias de comunicación más personalizadas y eficaces (HubSpot, 2022).<br><br>
-        p.mb-0 Según Revella (2015), el <em>buyer persona</em> es un perfil detallado que describe los intereses, preocupaciones y patrones de toma de decisiones de los clientes potenciales. Esta herramienta facilita la creación de contenido relevante y aumenta la efectividad de las estrategias de <em>marketing</em>.
+        p.mb-3 El <em>buyer</em> persona es una representación semificticia del cliente ideal de una empresa. Se basa en datos reales sobre comportamiento, motivaciones y necesidades del consumidor, permitiendo diseñar estrategias de comunicación más personalizadas y eficaces (HubSpot, 2022).<br><br>
+        p.mb-0 Según Revella (2015), el <em>buyer</em> persona es un perfil detallado que describe los intereses, preocupaciones y patrones de toma de decisiones de los clientes potenciales. Esta herramienta facilita la creación de contenido relevante y aumenta la efectividad de las estrategias de <em>marketing</em>.
 
     Separador
 
@@ -22,7 +22,7 @@
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-lg-11
-        p.mb-0 En la planeación estratégica de contenidos digitales centrados en <em>storytelling</em>, identificar y comprender al público objetivo es esencial para lograr una comunicación auténtica y efectiva. Uno de los recursos clave para este propósito es la construcción del <em>buyer persona</em>, una representación semificticia de la cliente ideal basada en datos reales y análisis del entorno. A continuación, se presentan los principales elementos que definen sus características, fundamentales para guiar decisiones de contenido, tono narrativo y selección de canales digitales.
+        p.mb-0 En la planeación estratégica de contenidos digitales centrados en <em>storytelling</em>, identificar y comprender al público objetivo es esencial para lograr una comunicación auténtica y efectiva. Uno de los recursos clave para este propósito es la construcción del <em>buyer</em> persona, una representación semificticia de la cliente ideal basada en datos reales y análisis del entorno. A continuación, se presentan los principales elementos que definen sus características, fundamentales para guiar decisiones de contenido, tono narrativo y selección de canales digitales.
       .col-lg-1.d-none.d-lg-block
         figure
           img(data-aos="zoom-in-left")(src='@/assets/curso/temas/tema3/2.svg', alt='imagen decorativa')
@@ -58,7 +58,7 @@
     #t_3_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 3.2	Factores de motivación
 
-    p.mb-4.mb-lg-5 El <em>buyer persona</em> no solo responde a necesidades básicas, sino que también está influenciado por motivaciones profundas que determinan su comportamiento de compra, identificar estos factores permite diseñar estrategias de contenido alineadas con sus expectativas y valores:
+    p.mb-4.mb-lg-5 El <em>buyer</em> persona no solo responde a necesidades básicas, sino que también está influenciado por motivaciones profundas que determinan su comportamiento de compra, identificar estos factores permite diseñar estrategias de contenido alineadas con sus expectativas y valores:
 
     .row.justify-content-center.z-2
       .col-8.col-sm-6.col-lg-3
@@ -90,7 +90,7 @@
     #t_3_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 3.3	Creación
 
-    p.mb-4.mb-lg-5 El <em>buyer persona</em> es una representación semificticia del cliente ideal, basada en datos reales y análisis de comportamiento. Su construcción permite diseñar estrategias de contenido alineadas con las necesidades y expectativas del público objetivo. Para desarrollar un <em>buyer persona</em>, se deben seguir los siguientes pasos:
+    p.mb-4.mb-lg-5 El <em>buyer</em> persona es una representación semificticia del cliente ideal, basada en datos reales y análisis de comportamiento. Su construcción permite diseñar estrategias de contenido alineadas con las necesidades y expectativas del público objetivo. Para desarrollar un <em>buyer</em> persona, se deben seguir los siguientes pasos:
 
     .row.justify-content-center
       .col-xl-10
@@ -113,7 +113,7 @@
 
           .row
             .col-md-8.mb-4.mb-md-0
-              h3.mb-4 Creación del perfil del <em>buyer persona</em>
+              h3.mb-4 Creación del perfil del <em>buyer</em> persona
               p A partir de la información organizada, se construye un perfil detallado del cliente ideal, con datos como edad, género, ocupación, intereses y motivaciones. Se le asigna un nombre y una narrativa contextual.
             .col-md-4
               figure
@@ -124,13 +124,13 @@
               figure
                 img(src='@/assets/curso/temas/tema3/6.png', alt='Imagen decorativa')
             .col-md-8.text-start
-              h3.mb-4 Validación y ajuste del <em>buyer persona</em>
+              h3.mb-4 Validación y ajuste del <em>buyer</em> persona
               p Se verifica la fidelidad del perfil creado mediante pruebas piloto, encuestas o análisis de comportamiento. Se realizan ajustes necesarios para afinar su exactitud.
 
           .row
             .col-md-8.mb-4.mb-md-0
               h3.mb-4 Aplicación en estrategias de contenido
-              p El <em>buyer persona</em> validado se usa como base para personalizar mensajes, elegir formatos adecuados y diseñar campañas que generen conexión efectiva con la audiencia.
+              p El <em>buyer</em> persona validado se usa como base para personalizar mensajes, elegir formatos adecuados y diseñar campañas que generen conexión efectiva con la audiencia.
             .col-md-4
               figure
                 img(src='@/assets/curso/temas/tema3/5.png', alt='Imagen decorativa')
@@ -141,7 +141,7 @@
         figure
           img(data-aos="zoom-in-left")(src='@/assets/curso/temas/tema3/2.svg', alt='imagen decorativa')
       .col-lg-11
-        p.mb-0 Una vez construido, validado y comprendido el buyer persona, el siguiente paso es vincular sus características clave con la planificación estratégica del contenido digital. Cada elemento del perfil permite tomar decisiones más acertadas sobre qué comunicar, cómo hacerlo y a través de qué canales. De esta forma, se logra diseñar mensajes más relevantes y personalizados, que aumentan la efectividad de las campañas y fortalecen el vínculo con la audiencia. A continuación, se detallan los componentes clave del buyer persona y su aplicación práctica en el diseño de estrategias de contenido efectivas:
+        p.mb-0 Una vez construido, validado y comprendido el <em>buyer</em> persona, el siguiente paso es vincular sus características clave con la planificación estratégica del contenido digital. Cada elemento del perfil permite tomar decisiones más acertadas sobre qué comunicar, cómo hacerlo y a través de qué canales. De esta forma, se logra diseñar mensajes más relevantes y personalizados, que aumentan la efectividad de las campañas y fortalecen el vínculo con la audiencia. A continuación, se detallan los componentes clave del <em>buyer</em> persona y su aplicación práctica en el diseño de estrategias de contenido efectivas:
 
     .row.justify-content-center.align-items-center.factores-slider.z-2
       .d-none.d-xl-block.col-xl-4
@@ -163,7 +163,7 @@
                 img.factores-slider__icon.mb-4(src='@/assets/curso/temas/tema3/12.png' alt='Ilustacion de acompañamiento')
             .factores-slider__title-wrapper  
               h4.factores-slider__title.mb-4 Canales favoritos
-            p.mb-4.text-center Usar los medios digitales donde el <em>buyer persona</em> interactúa más
+            p.mb-4.text-center Usar los medios digitales donde el <em>buyer</em> persona interactúa más
 
           .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta
             .row.justify-content-center.mb-3

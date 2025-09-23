@@ -20,9 +20,9 @@ export default {
       tema: 'Público objetivo en la planeación de contenidos digitales',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> identificar la importancia del público objetivo y su relación con el <em>buyer persona</em> y la segmentación de mercados en la planeación de contenidos digitales.',
+        '<b> Objetivo:</b> identificar la importancia del público objetivo y su relación con el <em>buyer</em> persona y la segmentación de mercados en la planeación de contenidos digitales.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!.',
+      titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
@@ -143,7 +143,7 @@ export default {
         {
           id: 6,
           texto:
-            'El <em>buyer persona</em> representa a un cliente real específico con nombre y apellido.',
+            'El <em>buyer</em> persona representa a un cliente real específico con nombre y apellido.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -166,7 +166,7 @@ export default {
         {
           id: 7,
           texto:
-            'El <em>buyer persona</em> ayuda a comprender mejor las motivaciones, necesidades y comportamientos del público objetivo.',
+            'El <em>buyer</em> persona ayuda a comprender mejor las motivaciones, necesidades y comportamientos del público objetivo.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -189,7 +189,7 @@ export default {
         {
           id: 8,
           texto:
-            'Solo se necesita información demográfica para construir un buyer persona efectivo.',
+            'Solo se necesita información demográfica para construir un <em>buyer</em> persona efectivo.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -212,7 +212,7 @@ export default {
         {
           id: 9,
           texto:
-            'Un <em>buyer persona</em> puede incluir frustraciones, objetivos y canales digitales preferidos.',
+            'Un <em>buyer</em> persona puede incluir frustraciones, objetivos y canales digitales preferidos.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -235,7 +235,7 @@ export default {
         {
           id: 10,
           texto:
-            'El <em>buyer persona</em> debe construirse una sola vez y no necesita actualizarse.',
+            'El <em>buyer</em> persona debe construirse una sola vez y no necesita actualizarse.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -258,7 +258,7 @@ export default {
         {
           id: 11,
           texto:
-            'El <em>buyer persona</em> permite humanizar la estrategia de contenido digital.',
+            'El <em>buyer</em> persona permite humanizar la estrategia de contenido digital.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -281,7 +281,7 @@ export default {
         {
           id: 12,
           texto:
-            'El <em>buyer persona</em> no es útil si ya se tiene definido el público objetivo.',
+            'El <em>buyer</em> persona no es útil si ya se tiene definido el público objetivo.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -304,7 +304,7 @@ export default {
         {
           id: 13,
           texto:
-            'Una empresa puede tener más de un <em>buyer persona</em> si atiende a diferentes segmentos.',
+            'Una empresa puede tener más de un <em>buyer</em> persona si atiende a diferentes segmentos.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

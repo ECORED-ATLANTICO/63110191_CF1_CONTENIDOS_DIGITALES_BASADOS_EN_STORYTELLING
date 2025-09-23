@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Público objetivo',
     Description:
-      'Este componente aborda la planificación de contenidos digitales basados en <em>storytelling</em>, partiendo del <em>brief</em> como guía estratégica. Explora la importancia de definir el público objetivo, construyendo el <em>buyer persona</em> para adaptar narrativas a sus necesidades. Además, profundiza en la segmentación de mercados, proporcionando técnicas y buenas prácticas para diseñar campañas impactantes y alineadas con los objetivos de marca.',
+      'Este componente aborda la planificación de contenidos digitales basados en <em>storytelling</em>, partiendo del <em>brief</em> como guía estratégica. Explora la importancia de definir el público objetivo, construyendo el <em>buyer</em> persona para adaptar narrativas a sus necesidades. Además, profundiza en la segmentación de mercados, proporcionando técnicas y buenas prácticas para diseñar campañas impactantes y alineadas con los objetivos de marca.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -93,7 +93,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: '<em>Buyer persona</em>',
+        titulo: '<em>buyer</em> persona',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -178,7 +178,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA1_82220017_DU.pdf',
+        download: 'downloads/CF01_63110191_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -201,14 +201,14 @@ export default {
       link: 'https://www.questionpro.com/blog/es/publico-objetivo/',
     },
     {
-      tema: '<em>Buyer persona</em>',
+      tema: '<em>buyer</em> persona',
       referencia:
         'HubSpot. (2023, octubre 26). <em>6 ejemplos de buyer personas para diferentes empresas</em>. Blog de HubSpot.',
       tipo: 'Artículo',
       link: 'https://komunikalatam.com/buyer-persona/',
     },
     {
-      tema: '<em>Buyer persona</em>',
+      tema: '<em>buyer</em> persona',
       referencia:
         'Komunika Latam. (2023). <em>El buyer persona y su importancia en el marketing actual.</em>',
       tipo: 'Artículo',
@@ -352,7 +352,7 @@ export default {
         },
         {
           nombre: 'Heydy Cristina González García',
-          cargo: 'Evaluadora instruccional',
+          cargo: 'Evaluador instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
