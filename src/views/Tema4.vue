@@ -73,7 +73,7 @@
           .row.z-2.justify-content-center.align-items-center
             .col-lg-5
               h4.mb-4 Segmentación psicográfica
-              p.mb-3.mb-lg-0 Profundiza en intereses, valores y estilo de vida, lo cual resulta ideal para un <em>storytelling</em> emocional. Patagonia ilustra esta estrategia al destacar valores ecológicos en sus contenidos, conectando con audiencias ambientalistas
+              p.mb-3.mb-lg-0 Profundiza en intereses, valores y estilo de vida, lo cual resulta ideal para un <em>storytelling</em> emocional. Patagonia ilustra esta estrategia al destacar valores ecológicos en sus contenidos, conectando con audiencias ambientalistas.
             .col-10.col-lg-6
               figure
                 img(src='@/assets/curso/temas/tema4/6.png', alt='Texto que describa la imagen')
@@ -139,7 +139,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-xl-11
-        p.mb-0 Aplicar buenas prácticas en la segmentación con enfoque narrativo implica ir más allá de dividir audiencias, se trata de comprenderlas con empatía y creatividad. Una segmentación efectiva no solo identifica a quién se le habla, sino que permite construir historias que resuenen con sus emociones, valores y contextos.
+        p.mb-0 Aplicar buenas prácticas en la segmentación con enfoque narrativo implica ir más allá de dividir audiencias, se trata de comprenderlas con empatía y creatividad. Una segmentación efectiva no solo identifica a quién se le habla, sino que permite construir historias que resuenen con sus emociones, valores y contextos. Para lograrlo, es clave combinar datos actualizados con intuición narrativa, probar diferentes formatos según el canal y adaptar el tono a cada grupo. Además, revisar periódicamente la respuesta de cada segmento permite ajustar las historias y mantener su relevancia. Para profundizar en estas prácticas y escuchar experiencias reales de narradores digitales, se invita al aprendiz a escuchar el pódcast complementario que acompaña este capítulo, donde se exploran casos, errores comunes y consejos prácticos para segmentar con intención y contar con impacto.
       .col-xl-1.d-none.d-xl-block
         figure
           img(data-aos="zoom-in-left")(src='@/assets/curso/temas/tema4/11.svg', alt='imagen decorativa')
@@ -149,7 +149,6 @@
         figure
           img.mb-4.mb-lg-0(data-aos="zoom-in-left")(src='@/assets/curso/temas/tema4/10.png', alt='imagen decorativa') 
       .col-lg-9
-        p.mb-4 Para lograrlo, es clave combinar datos actualizados con intuición narrativa, probar diferentes formatos según el canal y adaptar el tono a cada grupo. Además, revisar periódicamente la respuesta de cada segmento permite ajustar las historias y mantener su relevancia. Para profundizar en estas prácticas y escuchar experiencias reales de narradores digitales, se invita al aprendiz a escuchar el podcast complementario que acompaña este capítulo, donde se exploran casos, errores comunes y consejos prácticos para segmentar con intención y contar con impacto.
         TarjetaAudio.color-acento-botones.mb-3.p-3.rounded-3(
           texto="Buenas prácticas en la segmentación de mercado"
           :audio="require('../assets/podcast/1.wav')"

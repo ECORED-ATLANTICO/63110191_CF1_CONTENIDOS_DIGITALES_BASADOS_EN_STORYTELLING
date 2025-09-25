@@ -205,14 +205,14 @@ export default {
       referencia:
         'HubSpot. (2023, octubre 26). <em>6 ejemplos de buyer personas para diferentes empresas</em>. Blog de HubSpot.',
       tipo: 'Artículo',
-      link: 'https://komunikalatam.com/buyer-persona/',
+      link: 'https://blog.hubspot.es/marketing/ejemplos-buyer-persona',
     },
     {
       tema: '<em>buyer</em> persona',
       referencia:
         'Komunika Latam. (2023). <em>El buyer persona y su importancia en el marketing actual.</em>',
       tipo: 'Artículo',
-      link: 'https://blog.hubspot.es/marketing/ejemplos-buyer-persona',
+      link: 'https://komunikalatam.com/buyer-persona/',
     },
     {
       tema: 'Segmentación de mercados',
@@ -304,7 +304,7 @@ export default {
     },
     {
       referencia:
-        'Beltrán Mora, M. N., Parrales Carvajal, V. M., & Ledesma Álvarez, G. D. (2019). <em>El Buyer Persona como factor clave entre las tendencias en gestión empresarial</em>. Revista Científica Mundo de la Investigación y el Conocimiento, 3(3), 659–681',
+        'Beltrán Mora, M. N., Parrales Carvajal, V. M., & Ledesma Álvarez, G. D. (2019). <em>El Buyer Persona como factor clave entre las tendencias en gestión empresarial</em>. Revista Científica Mundo de la Investigación y el Conocimiento, 3(3), 659–681.',
       link: 'http://recimundo.com/index.php/es/article/view/615',
     },
     {

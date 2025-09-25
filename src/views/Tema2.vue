@@ -25,7 +25,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-up")(src="@/assets/curso/temas/tema2/2.png", alt="Imagen decorativa")
       .col-lg-8
-        p.mb-4 Las características del público objetivo pueden variar según el sector, la industria y el tipo de negocio, sin embargo, algunos aspectos fundamentales incluyen:
+        p.mb-4 Las características del público objetivo pueden variar según el sector, la industria y el tipo de negocio; sin embargo, algunos aspectos fundamentales incluyen:
         ul.checklist.mb-4
           li Edad y género.
           li Nivel socioeconómico.

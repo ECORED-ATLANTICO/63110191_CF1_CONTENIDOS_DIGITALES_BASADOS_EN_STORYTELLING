@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El <em>brief</em> es un documento clave en la planificación de contenidos digitales, ya que permite consolidar información esencial para el desarrollo de estrategias comunicacionales. Según Kotler y Keller (2016), un <em>brief</em> bien estructurado proporciona lineamientos claros que facilitan la toma de decisiones y garantizan la coherencia de la campaña. El propósito de un <em>brief</em> es delimitar los objetivos y expectativas de una estrategia de contenido digital. De acuerdo con Chaffey y Smith (2017), este documento sirve para orientar a los equipos creativos, asegurando que el contenido producido esté alineado con la identidad de la marca y las necesidades del público objetivo
+        p.mb-0 El <em>brief</em> es un documento clave en la planificación de contenidos digitales, ya que permite consolidar información esencial para el desarrollo de estrategias comunicacionales. Según Kotler y Keller (2016), un <em>brief</em> bien estructurado proporciona lineamientos claros que facilitan la toma de decisiones y garantizan la coherencia de la campaña. El propósito de un <em>brief</em> es delimitar los objetivos y expectativas de una estrategia de contenido digital. De acuerdo con Chaffey y Smith (2017), este documento sirve para orientar a los equipos creativos, asegurando que el contenido producido esté alineado con la identidad de la marca y las necesidades del público objetivo.
   
     Separador
 

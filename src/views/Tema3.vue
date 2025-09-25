@@ -163,7 +163,7 @@
                 img.factores-slider__icon.mb-4(src='@/assets/curso/temas/tema3/12.png' alt='Ilustacion de acompañamiento')
             .factores-slider__title-wrapper  
               h4.factores-slider__title.mb-4 Canales favoritos
-            p.mb-4.text-center Usar los medios digitales donde el <em>buyer</em> persona interactúa más
+            p.mb-4.text-center Usar los medios digitales donde el <em>buyer</em> persona interactúa más.
 
           .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta
             .row.justify-content-center.mb-3
