@@ -203,7 +203,7 @@ export default {
     {
       tema: '<em>buyer</em> persona',
       referencia:
-        'HubSpot. (2023, octubre 26). <em>6 ejemplos de buyer personas para diferentes empresas</em>. Blog de HubSpot.',
+        'HubSpot. (2023, octubre 26). <em>6 ejemplos de buyer personas: inspírate y crea los tuyos con éxito</em>. Blog de HubSpot.',
       tipo: 'Artículo',
       link: 'https://blog.hubspot.es/marketing/ejemplos-buyer-persona',
     },
